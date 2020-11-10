@@ -10,7 +10,7 @@ class Table extends Component {
       <div className="pt-5 pb-5">
         <div className="container">
           <div className="text-center">
-            <div className="pt-4 pb-4">React For Rails Developers - videos</div>
+            <h2 className="pt-4 pb-4">React For Rails Developers - videos</h2>
           </div>
         </div>
       </div>
